@@ -1,15 +1,6 @@
-﻿using System.Globalization;
 using RASCUNHO.Entities;
-using RASCUNHO.Services;
-using System.Linq;
-using System.IO;
-using System.Diagnostics;
-using System.Text.RegularExpressions;
-using System.Collections.Generic;
-using System;
 
-
-namespace RASCUNHO
+namespace /*Insira o seu namespace aqui*/
 {
     class Program
     {
